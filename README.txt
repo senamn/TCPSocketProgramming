@@ -1,6 +1,6 @@
 Author: Sena Moon
 
-CSCE 3530 Programming Assignment #1
+TCP Socket Programming in C
 
 This program lets server and client communicate with each other. Client side accepts user input message and send it to the server. Then, the server converts user input message to have the first letter capitalized and the rest of the letters into lower case. Server also counts the number of spaces, alphabets, and vowels of the accepted message. Finally, server sends processed information back to the client and client prints them out.
 
